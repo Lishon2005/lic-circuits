@@ -138,3 +138,7 @@ Vin was chosen as 0.8V, within the saturation region.
 2.  VTC curve facilitated appropriate Vin selection (0.8V).
 3.  M2 width has a more significant impact on Id compared to M1.
 4.  Design-2 performed as expected.
+
+  *Conclusion:*
+    The CMOS circuit simulated in LT Spice functions as an amplifier,operating in ths saturation region with stable gain,phase shift and transient response.The observed voltage gain and output characteristics validate its use in low power amplification applications.Further analysis,such as determining cut off frequency and bandwidth,will help optimize the circuit for specific design requirements.
+
