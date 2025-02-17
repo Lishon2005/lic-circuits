@@ -1,5 +1,5 @@
 # LIC_EXP_REPORT
-Linear Integrated Circuits, Experiment 1 - Report                                                                                                                     *_pavanracharya_*
+Linear Integrated Circuits, Experiment 1 - Report                                                                                                                     *Lishon dias*
 
 # Experiment-1
 
