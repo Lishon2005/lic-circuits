@@ -158,6 +158,8 @@ A monostable multivibrator has one stable state and one temporary state. Trigger
 For 0.5 ms output, suitable R and C are selected accordingly.
 
 ---
+### CIRCUIT DIAGRAM
+![image](https://github.com/user-attachments/assets/24f07c22-0f8f-4331-bdd2-cefc0821fda2)
 
 ## Design and Components
 
@@ -191,6 +193,19 @@ For 0.5 ms output, suitable R and C are selected accordingly.
 ---
 
 ## Output
+### CASE 1
+![image](https://github.com/user-attachments/assets/90ca22ab-5cdd-4a8a-acd8-4253840f0ea0)
+
+### CASE 2
+![image](https://github.com/user-attachments/assets/a63eb299-fd4a-4c72-bf09-46b5f1b38757)
+
+### CASE 3
+n case 3 the ton<toff which is not possible in astable Multivibrator , thus we can use an inverter to invert the pulse generated.
+
+image
+
+![image](https://github.com/user-attachments/assets/c8ab5b16-e839-49e7-9a19-000e5dc5a66b)
+
 
 - Input: Square wave from astable multivibrator (~1 kHz)
 - Intermediate: Narrow spike train (positive and negative)
